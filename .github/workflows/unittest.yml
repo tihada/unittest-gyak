@@ -17,4 +17,4 @@ jobs:
           python-version: '3.12'
       - name: Test by running code
         run: |
-          py app.py
+          python app.py
